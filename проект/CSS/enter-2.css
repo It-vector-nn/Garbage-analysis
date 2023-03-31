@@ -1,0 +1,225 @@
+a{
+position: absolute;
+font-family: 'Freeride';
+font-size: 130%;
+line-height: 120%;
+text-decoration: none;
+color: #000000;
+}
+
+b{
+position: absolute;
+font-family: 'Freeride';
+font-size: 100%;
+line-height: 120%;
+text-decoration: none;
+color: #000000;
+}
+
+.logotip{
+left: 3.7%;
+top: 4.5%;
+font-size: 220%;
+color: #170303;
+}
+
+.about-us{
+left: 27%;
+top: 4.7%;
+font-size: 160%;
+}
+
+.garbage-search{
+left: 42%;
+top: 4.7%;
+font-size: 160%;
+width: 15%;
+}
+
+.contacts{
+right: 27%;
+top: 4.7%;
+font-size: 160%;
+}
+
+.enter{
+right: 8.4%;
+top: 4.7%;
+font-size: 160%;
+}
+
+.ecnn{
+left: 2%;
+bottom: 3.5%;
+color: #FFFFFF;
+}
+
+.privacy-policy{
+left: 37%;
+bottom: 3.5%;
+color: #FFFFFF;
+font-size: 130%;
+}
+
+.footer{
+position: absolute;
+width: 100%;
+height: 10%;
+left: 0%;
+bottom: 0%;
+background: #7FB07C;
+}
+
+.registration-bar{
+position: absolute;
+width: 25%;
+height: 45%;
+left: 35%;
+top: 30%;
+
+background: #C7F3C3;
+border-radius: 10px;
+}
+
+.registration-bar-text{
+position: absolute;
+left: 42.3%;
+top: 32.1%;
+font-size: 150%;
+}
+
+.login-bar{
+position: absolute;
+width: 20%;
+height: 5%;
+left: 37.5%;
+top: 40%;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.login-bar-text{
+position: absolute;
+left: 38.7%;
+top: 40.5%;
+font-size: 120%;
+color: #D9D9D9;
+}
+
+.password-bar{
+position: absolute;
+width: 20%;
+height: 5%;
+left: 37.5%;
+top: 50%;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.password-bar-text{
+position: absolute;
+left: 38.7%;
+top: 51.1%;
+font-size: 120%;
+color: #D9D9D9;
+}
+
+.registration-button{
+position: absolute;
+width: 20%;
+height: 7%;
+left: 37.5%;
+top: 59%;
+
+background: #7FB07C;
+border-radius: 10px;
+}
+
+.registration-button-text{
+position: absolute;
+left: 39.8%;
+top: 60.2%;
+color: #FFFFFF;
+font-size: 150%;
+}
+
+.login-text{
+position: absolute;
+left: 38%;
+top: 36%;
+font-size: 120%;
+}
+
+.password-text{
+position: absolute;
+left: 38%;
+top: 45.5%;
+font-size: 120%;
+}
+
+.hr1{
+position: absolute;
+width: 95%;
+left: 2%;
+top: 13%;
+
+border: 2px solid #7FB07C;
+transform: rotate(-0.2deg);
+}
+
+.hr2{
+position: absolute;
+width: 6%;
+left: 17%;
+top: 6%;
+
+border: 1.5px solid #7FB07C;
+transform: rotate(90deg);
+}
+
+.hr3{
+position: absolute;
+width: 6%;
+right: 17%;
+top: 6%;
+border: 1.5px solid #7FB07C;
+transform: rotate(90deg);
+}
+
+.hr4{
+position: absolute;
+width: 4%;
+left: 15%;
+bottom: 4%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(90deg);
+}
+
+.hr5{
+position: absolute;
+width: 4%;
+right: 15%;
+bottom: 4%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(90deg);
+}
+
+.img6{
+position: absolute;
+width: 4.9%;
+height: 9.5%;
+right: 10%;
+bottom: 1%;
+}
+
+.img7{
+position: absolute;
+width: 4.3%;
+height: 7.2%;
+right: 4%;
+bottom: 2%;
+}
