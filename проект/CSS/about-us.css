@@ -1,0 +1,213 @@
+a{
+position: absolute;
+font-family: 'Freeride';
+font-size: 130%;
+line-height: 120%;
+color: #000000;
+text-decoration: none;
+}
+
+.logotip{
+left: 3.7%;
+top: 4.5%;
+font-size: 220%;
+color: #170303;
+}
+
+.about-us{
+left: 27%;
+top: 4.7%;
+font-size: 160%;
+}
+
+.garbage-search{
+left: 43%;
+top: 4.7%;
+font-size: 160%;
+}
+
+.contacts{
+right: 27%;
+top: 4.7%;
+font-size: 160%;
+}
+
+.enter{
+right: 8.4%;
+top: 4.7%;
+font-size: 160%;
+}
+
+.improving{
+left: 15%;
+top: 29%;
+letter-spacing: 0.2em;
+}
+
+.environmental-condition{
+left: 17%;
+top: 33%;
+letter-spacing: 0.2em;
+}
+
+.NN{
+left: 11%;
+top: 37%;
+
+letter-spacing: 0.2em;
+}
+
+.text{
+width: 37%;
+left: 4%;
+top: 41%;
+}
+
+.ecnn{
+left: 2%;
+bottom: 3.5%;
+color: #FFFFFF;
+}
+
+.privacy-policy{
+left: 37%;
+bottom: 3.5%;
+color: #FFFFFF;
+font-size: 130%;
+}
+
+.footer{
+position: absolute;
+width: 100%;
+height: 10%;
+left: 0%;
+bottom: 0%;
+background: #7FB07C;
+}
+
+.oval{
+position: absolute;
+width: 10.8%;
+height: 9.4%;
+left: 8.8%;
+top: 61.3%;
+border: 1px solid #396536;
+border-radius: 100px/50px;
+}
+
+.oval-t{
+left: 10.6%;
+top: 64.45%;
+font-size: 115%;
+}
+
+.hr1{
+position: absolute;
+width: 95%;
+left: 2%;
+top: 13%;
+
+border: 2px solid #7FB07C;
+transform: rotate(-0.2deg);
+}
+
+.hr2{
+position: absolute;
+width: 6%;
+left: 17%;
+top: 6%;
+
+border: 1.5px solid #7FB07C;
+transform: rotate(90deg);
+}
+
+.hr3{
+position: absolute;
+width: 6%;
+right: 17%;
+top: 6%;
+border: 1.5px solid #7FB07C;
+transform: rotate(90deg);
+}
+
+.hr4{
+position: absolute;
+width: 4%;
+left: 15%;
+bottom: 4%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(90deg);
+}
+
+.hr5{
+position: absolute;
+width: 4%;
+right: 15%;
+bottom: 4%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(90deg);
+}
+
+.img1{
+position: absolute;
+width: 27%;
+height: 51%;
+right: 11.5%;
+top: 21.5%;
+}
+
+.img2{
+position: absolute;
+width: 15%;
+height: 34%;
+right: 42%;
+bottom: 22.5%;
+}
+
+.img3{
+position: absolute;
+width: 9.5%;
+height: 19%;
+right: 4%;
+top: 45%;
+
+transform: rotate(180deg) scale(-1,-1);
+}
+
+.img4{
+position: absolute;
+width: 9.5%;
+height: 19%;
+right: 22%;
+top: 69%;
+
+transform: rotate(190deg) scale(1,-1);
+}
+
+.img5{
+position: absolute;
+width: 9.5%;
+height: 19%;
+left: 34.5%;
+top: 62%;
+
+transform: scale(-1, -1) rotate(-80deg) matrix(-0.1, 1, 1, 0.1, 0, 0);
+}
+
+.img6{
+position: absolute;
+width: 4.9%;
+height: 9.5%;
+right: 10%;
+bottom: 1%;
+}
+
+.img7{
+position: absolute;
+width: 4.3%;
+height: 7.2%;
+right: 4%;
+bottom: 2%;
+}

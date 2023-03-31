@@ -1,0 +1,286 @@
+a{
+position: absolute;
+font-family: 'Freeride';
+font-size: 130%;
+line-height: 120%;
+text-decoration: none;
+color: #000000;
+}
+
+b{
+position: absolute;
+font-family: 'Freeride';
+font-size: 100%;
+line-height: 120%;
+text-decoration: none;
+color: #000000;
+}
+
+.logotip{
+left: 3.7%;
+top: 4.5%;
+font-size: 220%;
+color: #170303;
+}
+
+.about-us{
+left: 27%;
+top: 4.7%;
+font-size: 160%;
+}
+
+.garbage-search{
+left: 42%;
+top: 4.7%;
+font-size: 160%;
+width: 15%;
+}
+
+.contacts{
+right: 27%;
+top: 4.7%;
+font-size: 160%;
+}
+
+.enter{
+right: 8.4%;
+top: 4.7%;
+font-size: 160%;
+}
+
+.ecnn{
+left: 2%;
+bottom: 3.5%;
+color: #FFFFFF;
+}
+
+.privacy-policy{
+left: 37%;
+bottom: 3.5%;
+color: #FFFFFF;
+font-size: 130%;
+}
+
+.footer{
+position: absolute;
+width: 100%;
+height: 10%;
+left: 0%;
+bottom: 0%;
+background: #7FB07C;
+}
+
+.downolad-files-bar{
+position: absolute;
+width: 25%;
+height: 5%;
+left: 33%;
+top: 32%;
+
+background: #C7F3C3;
+border-radius: 10px;
+}
+
+.downolad-files-bar-text{
+position: absolute;
+left: 34.5%;
+top: 32.6%;
+font-size: 120%;
+}
+
+.photo-name-text{
+position: absolute;
+left: 34.5%;
+top: 39%;
+font-size: 120%;
+}
+
+.address-bar{
+position: absolute;
+width: 25%;
+height: 5%;
+left: 33%;
+top: 45%;
+
+background: #C7F3C3;
+border-radius: 10px;
+}
+
+.address-bar-text{
+position: absolute;
+left: 34.5%;
+top: 45.7%;
+font-size: 120%;
+}
+
+.street-bar{
+position: absolute;
+width: 25%;
+height: 5%;
+left: 33%;
+top: 53%;
+
+background: #EAF6E9;
+border-radius: 10px;
+}
+
+.street-bar-text{
+position: absolute;
+left: 34.5%;
+top: 53.5%;
+font-size: 120%;
+}
+
+.next-button{
+position: absolute;
+width: 9%;
+height: 5.5%;
+left: 35%;
+top: 61%;
+
+background: #7FB07C;
+border-radius: 10px;
+}
+
+.next-button-text{
+position: absolute;
+left: 37.2%;
+top: 61.5%;
+color: #FFFFFF;
+font-size: 150%;
+}
+
+.hr1{
+position: absolute;
+width: 95%;
+left: 2%;
+top: 13%;
+
+border: 2px solid #7FB07C;
+transform: rotate(-0.2deg);
+}
+
+.hr2{
+position: absolute;
+width: 6%;
+left: 17%;
+top: 6%;
+
+border: 1.5px solid #7FB07C;
+transform: rotate(90deg);
+}
+
+.hr3{
+position: absolute;
+width: 6%;
+right: 17%;
+top: 6%;
+border: 1.5px solid #7FB07C;
+transform: rotate(90deg);
+}
+
+.hr4{
+position: absolute;
+width: 4%;
+left: 15%;
+bottom: 4%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(90deg);
+}
+
+.hr5{
+position: absolute;
+width: 4%;
+right: 15%;
+bottom: 4%;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(90deg);
+}
+
+.hr6{
+position: absolute;
+width: 8.5%;
+left: 36.3%;
+top: 23.5%;
+
+border: 2px solid #7FB07C;
+}
+
+.hr7{
+position: absolute;
+width: 8.5%;
+left: 49.4%;
+top: 23.5%;
+
+border: 2px solid #7FB07C;
+transform: rotate(-0.2deg);
+}
+
+.img6{
+position: absolute;
+width: 4.9%;
+height: 9.5%;
+right: 10%;
+bottom: 1%;
+}
+
+.img7{
+position: absolute;
+width: 4.3%;
+height: 7.2%;
+right: 4%;
+bottom: 2%;
+}
+
+.circle1{
+position: absolute;
+width: 4%;
+height: 7%;
+left: 32%;
+top: 20%;
+border-radius: 50%;
+border: 3px solid #61895E;
+}
+
+.circle1-t{
+position: absolute;
+left: 33.8%;
+top: 22.8%;
+font-size: 160%;
+}
+
+.circle2{
+position: absolute;
+width: 4%;
+height: 7%;
+left: 45%;
+top: 20%;
+border-radius: 50%;
+border: 3px solid #61895E;
+}
+
+.circle2-t{
+position: absolute;
+left: 46.8%;
+top: 22.8%;
+font-size: 160%;
+}
+
+.circle3{
+position: absolute;
+width: 4%;
+height: 7%;
+right:  37.4%;
+top: 20%;
+border-radius: 50%;
+border: 3px solid #61895E;
+}
+
+.circle3-t{
+position: absolute;
+right: 39.1%;
+top: 22.8%;
+font-size: 160%;
+}
